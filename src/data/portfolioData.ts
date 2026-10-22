@@ -88,7 +88,7 @@ export const icons = {
  *  3. ОБОИ РАБОЧЕГО СТОЛА
  * ===================================================================== */
 export const wallpaper =
-  'https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=2564&auto=format&fit=crop'
+  'https://raw.githubusercontent.com/Sabinunap/portfolio-/953d5ead5affe2657dcfb68546f13d453324d168/vv.JPG'
 
 /* =====================================================================
  *  4. ПАПКИ И КЕЙСЫ
