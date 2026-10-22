@@ -55,12 +55,12 @@ export const profile = {
  *  folder: '/portfolio/my-folder.png',
  * ===================================================================== */
 export const icons = {
-  folder: 'https://img.icons8.com/color/240/mac-folder.png',
-  finder: 'https://upload.wikimedia.org/wikipedia/commons/c/c9/Finder_Icon_macOS_Big_Sur.png',
-  safari: 'https://img.icons8.com/color/240/safari--v1.png',
-  settings: 'https://img.icons8.com/fluency/240/settings.png',
-  telegram: 'https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg',
-  trash: 'https://img.icons8.com/fluency/240/full-trash.png',
+  folder: '/portfolio/folder.png',
+  finder: '/portfolio/finder.png',
+  safari: '/portfolio/safari.png',
+  settings: '/portfolio/settings.png',
+  telegram: '/portfolio/telegram.png',
+  trash: '/portfolio/trash.png',
 }
 
 /* =====================================================================
