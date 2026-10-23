@@ -159,25 +159,55 @@ export const folders: PortfolioFolder[] = [
   // ✂️ ====== НАЧАЛО ПАПКИ (Скопируй отсюда до ножниц ниже, чтобы создать НОВУЮ ПАПКУ на столе!) ======
   {
     id: 'posters', // Уникальное английское название для новой папки (например: 'polygraphy' или 'cards')
-    name: 'Постеры и Мерч', // Как папка подписана на рабочем столе Мака
+    name: 'Постеры и открыточки', // Как папка подписана на рабочем столе Мака
     cases: [
       {
-        id: 'grid-fest',
-        title: 'Grid Fest — постер.pdf',
-        cover: '/portfolio/poster-typo.png',
-        subtitle: 'Музыкальный фестиваль · 2024',
+        id: 'otkrytki',
+        title: 'Открытки.pdf',
+        cover: '/portfolio/otkryt-12.jpeg',
+        subtitle: 'Открытки на новый год/день рождения',
         description:
-          'Задача: серия афиш в швейцарском стиле для городского фестиваля. Строгая модульная сетка, два цвета и типографика, которая читается с 20 метров.',
-        images: ['/portfolio/poster-typo.png', '/portfolio/merch.png'],
+          'Подборка открыток 2023–2026.',
+        images: [
+          '/portfolio/otkryt-1.jpeg',
+          '/portfolio/otkryt-2.jpeg',
+          '/portfolio/otkryt-3.jpg',
+          '/portfolio/otkryt-4.jpg',
+          '/portfolio/otkryt-5.jpg',
+          '/portfolio/otkryt-6.jpeg',
+          '/portfolio/otkryt-7.jpg',
+          '/portfolio/otkryt-8.jpeg',
+          '/portfolio/otkryt-9.jpg',
+          '/portfolio/otkryt-11.jpeg',
+          '/portfolio/otkryt-12.jpeg',
+          '/portfolio/otkryt-13.jpg',
+          '/portfolio/otkryt-14.jpg',
+        ],
       },
       {
-        id: 'merch-drop',
-        title: 'Мерч-дроп.pdf',
-        cover: '/portfolio/merch.png',
-        subtitle: 'Мерч для IT-конференции · 2025',
+        id: 'posters',
+        title: 'Постеры.pdf',
+        cover: '/portfolio/poster-5.JPG',
+        subtitle: 'Постеры на разные темы',
         description:
-          'Задача: мерч, который хочется носить и после конференции. Худи, шопперы, кепки и стикерпаки с единой графической системой.',
-        images: ['/portfolio/merch.png', '/portfolio/poster-typo.png'],
+          'Подборка постеров 2023–2026.',
+        images: [
+          '/portfolio/poster-1.JPG', 
+          '/portfolio/poster-2.JPG',
+          '/portfolio/poster-3.JPG', 
+          '/portfolio/poster-4.JPG',
+          '/portfolio/poster-5.JPG', 
+          '/portfolio/poster-6.jpg',
+          '/portfolio/poster-7.jpg', 
+          '/portfolio/poster-8.JPG',
+          '/portfolio/poster-9.jpg', 
+          '/portfolio/poster-10.JPG',
+          '/portfolio/poster-11.JPG', 
+          '/portfolio/poster-12.JPG',
+          '/portfolio/poster-13.JPG', 
+          '/portfolio/poster-14.jpg',
+          '/portfolio/poster-15.JPG', 
+        ],
       },
     ],
   },
