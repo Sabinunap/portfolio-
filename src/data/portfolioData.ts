@@ -126,7 +126,7 @@ export const folders: PortfolioFolder[] = [
       {
         id: 'ai-photoset',
         title: 'Ai-фотосессии',
-        cover: '/portfolio/ai-campaign.png',
+        cover: '/portfolio/ai-1.JPEG',
         subtitle: 'Фотореализм и работа с внешностью',
         description:
           'Серия генераций со мной и другими людьми. Полное сохранение черт лица, детальная проработка света и текстуры кожи.',
