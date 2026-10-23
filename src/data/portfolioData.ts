@@ -212,16 +212,16 @@ export const trash: PortfolioCase[] = [
  * ===================================================================== */
 export const desktopPhotos: DesktopPhoto[] = [
   {
-    id: 'pravki',
-    name: 'правки_финал_точно2.jpg',
-    src: '/portfolio/desk-pravki.png',
-    description: 'Финальные правки. Точно финальные. Ну почти.',
+    id: 'devchonki',
+    name: 'тусня.jpg',
+    src: '/portfolio/IMG_3803.JPG',
+    description: 'Эх хорошо девчонки с дршкой поздравили',
   },
   {
-    id: 'moodboard',
-    name: 'мудборд_кофе.png',
-    src: '/portfolio/desk-moodboard.png',
-    description: 'Референсы для упаковки кофейни «Зерно»: тёплые оттенки, керамика, латте-арт.',
+    id: 'screenshot',
+    name: 'Снимок экрана 2026-0...16.14.22',
+    src: '/portfolio/IMG_4219.JPG',
+    description: 'Так выглядело мое рабочее пространство в процессе дизайна упаковки.',
   },
 ]
 
