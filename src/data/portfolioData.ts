@@ -121,15 +121,15 @@ export const folders: PortfolioFolder[] = [
   // ==================== ПАПКА 2: AI ПРОЕКТЫ ====================
   {
     id: 'ai',
-    name: 'AI проекты',
+    name: 'AI',
     cases: [
       {
-        id: 'chrome-orange',
-        title: 'Chrome Orange — кампания.png',
+        id: 'ai-photoset',
+        title: 'Ai-фотосессии',
         cover: '/portfolio/ai-campaign.png',
-        subtitle: 'Рекламная кампания сока · 2025',
+        subtitle: 'Фотореализм и работа с внешностью',
         description:
-          'Задача: за неделю собрать серию сюрреалистичных визуалов для наружной рекламы без дорогой съёмки. Генерация в Midjourney, доработка и композитинг в Photoshop, апскейл для билбордов 6×3 м.',
+          'Серия генераций со мной и другими людьми. Полное сохранение черт лица, детальная проработка света и текстуры кожи.',
         images: ['/portfolio/ai-campaign.png', '/portfolio/ai-character.png'],
       },
       {
