@@ -67,7 +67,7 @@ export const icons = {
  *  3. ОБОИ РАБОЧЕГО СТОЛА
  * ===================================================================== */
 export const wallpaper =
-  'https://raw.githubusercontent.com/Sabinunap/portfolio-/953d5ead5affe2657dcfb68546f13d453324d168/vv.JPG'
+  '/portfolio/oboi.JPG'
 
 /* =====================================================================
  *  4. ПАПКИ И КЕЙСЫ НА РАБОЧЕМ СТОЛЕ
