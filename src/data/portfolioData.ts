@@ -320,9 +320,13 @@ export const trash: PortfolioCase[] = [
   },
   {
     id: 'veselo',
-    name: 'Снимок экрана 2026-0...19.08.27',
-    src: '/portfolio/veselo.JPG',
+    title: 'Снимок экрана 2026-0...19.08.27',
+    cover: '/portfolio/veselo.JPG',
+    subtitle: 'Скриншот',
     description: 'Попросили сделать карточку повеселее.',
+    images: [
+      '/portfolio/veselo.JPG',
+    ],
   },
 ]
 
