@@ -168,6 +168,8 @@ export const folders: PortfolioFolder[] = [
           '/portfolio/pack-coffee.png',
         ],
       },
+    ],
+  },
 
   // ✂️ ====== НАЧАЛО ПАПКИ (Скопируй отсюда до ножниц ниже, чтобы создать НОВУЮ ПАПКУ на столе!) ======
   {
