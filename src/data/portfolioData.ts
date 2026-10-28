@@ -211,8 +211,73 @@ export const folders: PortfolioFolder[] = [
       },
     ],
   },
-  // ✂️ ====== КОНЕЦ ПАПКИ (Вставляй новую папку прямо под этой строчкой!) ======
-]
+  
+  // ✂️ ====== ПАПКА ИНФОГРАФИКА ======
+  {
+    id: 'infographics', // Уникальное английское название для новой папки (например: 'polygraphy' или 'cards')
+    name: 'Инфографика', // Как папка подписана на рабочем столе Мака
+    cases: [
+      {
+        id: 'infografika',
+        title: 'Карточки.pdf',
+        cover: '/portfolio/wb50.JPG',
+        subtitle: 'Инфографика WB/Ozon',
+        description:
+          'Подборка карточек для маркетплейсов. Работы местами идут вразнобой, так как какие-то серии со временем потерялись, плюс докинула сюда пару работ с тестовых заданий и пробные зарисовки.',
+        images: [
+          '/portfolio/wb1.JPG',
+          '/portfolio/wb2.JPG',
+          '/portfolio/wb3.JPG',
+          '/portfolio/wb4.JPG',
+          '/portfolio/wb6.JPG',
+          '/portfolio/wb7.JPG',
+          '/portfolio/wb8.JPG',
+          '/portfolio/wb9.JPG',
+          '/portfolio/wb10.JPG',
+          '/portfolio/wb11.JPG',
+          '/portfolio/wb12.JPG',
+          '/portfolio/wb13.JPG',
+          '/portfolio/wb14.JPG',
+          '/portfolio/wb15.JPG',
+          '/portfolio/wb16.JPG',
+          '/portfolio/wb17.JPG',
+          '/portfolio/wb18.JPG',
+          '/portfolio/wb19.JPG',
+          '/portfolio/wb20.JPG',
+          '/portfolio/wb21.JPG',
+          '/portfolio/wb22.JPG',
+          '/portfolio/wb23.JPG',
+          '/portfolio/wb24.JPG',
+          '/portfolio/wb25.JPG',
+          '/portfolio/wb26.JPG',
+          '/portfolio/wb27.JPG',
+          '/portfolio/wb28.JPG',
+          '/portfolio/wb29.JPG',
+          '/portfolio/wb30.JPG',
+          '/portfolio/wb31.JPG',
+          '/portfolio/wb32.JPG',
+          '/portfolio/wb33.JPG',
+          '/portfolio/wb34.JPG',
+          '/portfolio/wb35.JPG',
+          '/portfolio/wb36.JPG',
+          '/portfolio/wb37.JPG',
+          '/portfolio/wb38.JPG',
+          '/portfolio/wb39.JPG',
+          '/portfolio/wb40.JPG',
+          '/portfolio/wb41.JPG',
+          '/portfolio/wb42.JPG',
+          '/portfolio/wb43.JPG',
+          '/portfolio/wb44.JPG',
+          '/portfolio/wb45.JPG',
+          '/portfolio/wb46.JPG',
+          '/portfolio/wb47.jpg',
+          '/portfolio/wb48.jpeg',
+          '/portfolio/wb49.JPG',
+          '/portfolio/wb50.JPG',
+        ],
+      },
+    ],
+  },
 
 /* =====================================================================
  *  5. КОРЗИНА (шуточные снесённые проекты и непринятые концепты)
