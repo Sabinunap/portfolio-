@@ -55,7 +55,7 @@ const closed: WindowState = { open: false, minimized: false, z: 100 }
 export function MacDesktop() {
   const zCounter = useRef(110)
   const [windows, setWindows] = useState<Record<AppId, WindowState>>({
-    finder: { open: true, minimized: false, z: 101 },
+    finder: closed,
     safari: closed,
     settings: closed,
     preview: closed,
