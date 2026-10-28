@@ -319,12 +319,10 @@ export const trash: PortfolioCase[] = [
     ],
   },
   {
-    id: 'pravki-old',
-    title: 'правки_от_клиента_23.jpg',
-    cover: '/portfolio/desk-pravki.png',
-    subtitle: 'Снесённый проект',
-    description: '«Логотип побольше, а воздуха поменьше». Проект ушёл в корзину вместе с этими правками.',
-    images: ['/portfolio/desk-pravki.png'],
+    id: 'veselo',
+    name: 'Снимок экрана 2026-0...19.08.27',
+    src: '/portfolio/veselo.JPG',
+    description: 'Попросили сделать карточку повеселее.',
   },
 ]
 
