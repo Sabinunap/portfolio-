@@ -303,13 +303,20 @@ export const folders: PortfolioFolder[] = [
  * ===================================================================== */
 export const trash: PortfolioCase[] = [
   {
-    id: 'logo-v47',
-    title: 'логотип_v47_ФИНАЛ.ai',
-    cover: '/portfolio/trash-logo.png',
-    subtitle: 'Непринятый концепт',
+    id: 'hren',
+    title: 'бредятина.pdf',
+    cover: '/portfolio/ITSA1.jpg',
+    subtitle: 'Дурнина',
     description:
-      'Клиент попросил «сделать сочнее и добавить радугу». Мы сделали. Потом мы удалили. Иногда лучший дизайн — тот, что остался в корзине.',
-    images: ['/portfolio/trash-logo.png'],
+      'Дурачилась просто.',
+    images: [
+      '/portfolio/ITSA1.jpg',
+      '/portfolio/ITSA2.jpg',
+      '/portfolio/ITSA3.jpg',
+      '/portfolio/ITSA4.jpg',
+      '/portfolio/ITSA5.jpg',
+      '/portfolio/ITSA6.jpg',
+    ],
   },
   {
     id: 'pravki-old',
