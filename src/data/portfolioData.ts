@@ -159,13 +159,15 @@ export const folders: PortfolioFolder[] = [
       {
         id: 'cloth',
         title: 'Генерация одежды.pdf',
-        cover: '/portfolio/pack-tea.png',
+        cover: '/portfolio/shmot2.JPG',
         subtitle: 'Сохранение деталей',
         description:
           'Тестовое задание по созданию fashion-контента с помощью ИИ. Генерация модели и перенос одежды с исходных фотографий с сохранением внешности модели, фасона и деталей изделия. Исходные материалы не прикреплены, чтобы избежать возможного нарушения прав на их использование.',
         images: [
-          '/portfolio/pack-tea.png',
-          '/portfolio/pack-coffee.png',
+          '/portfolio/shmot1.JPG',
+          '/portfolio/shmot2.JPG',
+          '/portfolio/shmot3.JPG',
+          '/portfolio/shmot4.JPG',
         ],
       },
     ],
