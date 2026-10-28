@@ -98,7 +98,10 @@ export const folders: PortfolioFolder[] = [
         subtitle: 'Lilac Beauty · 2024',
         description:
           'Задача: создать премиальную, но доступную по себестоимости упаковку для линейки уходовой косметики. Матовое стекло, тиснение логотипа и единая сетка для 12 SKU.',
-        images: ['/portfolio/pack-cosmetics.png', '/portfolio/pack-tea.png'],
+        images: [
+          '/portfolio/pack-cosmetics.png', 
+          '/portfolio/pack-tea.png'
+        ],
       },
 
       // ✂️ --- НАЧАЛО КЕЙСА (Скопируй отсюда до ножниц ниже, чтобы добавить новый кейс в папку) ---
@@ -125,7 +128,7 @@ export const folders: PortfolioFolder[] = [
     cases: [
       {
         id: 'ai-photoset',
-        title: 'Ai-фотосессии',
+        title: 'Ai-фотосессии.pdf',
         cover: '/portfolio/ai-1.JPEG',
         subtitle: 'Фотореализм и работа с внешностью',
         description:
@@ -153,8 +156,18 @@ export const folders: PortfolioFolder[] = [
           '/portfolio/ai-20.jpg',
         ],
       },
-    ],
-  },
+    {
+        id: 'cloth', // Придумай любое английское слово без пробелов
+        title: 'Генерация одежды.pdf', // Название файла в папке
+        cover: '/portfolio/pack-tea.png', // Картинка-обложка из папки public/portfolio
+        subtitle: 'Сохранение деталей', // Подзаголовок
+        description:
+          'Тестовое задание по созданию fashion-контента с помощью ИИ. Генерация модели и перенос одежды с исходных фотографий с сохранением внешности модели, фасона и деталей изделия. Сначала представлены итоговые изображения, в конце пара исходников для наглядого сравнения.',
+        images: [
+          '/portfolio/pack-tea.png', // Слайды внутри кейса (через запятую в кавычках)
+          '/portfolio/pack-coffee.png',
+        ],
+      },
 
   // ✂️ ====== НАЧАЛО ПАПКИ (Скопируй отсюда до ножниц ниже, чтобы создать НОВУЮ ПАПКУ на столе!) ======
   {
